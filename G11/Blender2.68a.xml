@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile gkeysdk="0" guid="{CE45D5CE-1897-43FB-B1A7-80233720227A}" lock="0" name="Blender 2.68a">
+    <description></description>
+    <target path="C:\PROGRAM FILES\BLENDER FOUNDATION\BLENDER 2.68A\BLENDER.EXE"/>
+    <signature key="" value="" executable="" name=""/>
+    <macros>
+      <macro original="true" guid="{BBEB3397-D187-4677-9E25-9D45A70BEC16}" hidden="false" name="Knife Subdivide">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="K"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{DF5DC330-7D53-4349-9D9D-4E8A11BC628A}" hidden="false" name="Select Inverse">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="I"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{E51F9CE0-ED1E-4B36-92A4-ADC977D103FA}" hidden="false" name="Undo">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{E51F9CE0-ED1E-4B36-92A4-ADC977D103FA}" guid="{9F7DCD73-28C2-421D-86F8-69682E129AFC}" hidden="false" name="Undo">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="undo"/>
+        </hotkeys>
+      </macro>
+      <macro guid="{2C8382E4-6E49-4C01-9051-83481700207F}" hidden="false" name="Redo">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{2C8382E4-6E49-4C01-9051-83481700207F}" guid="{3E6B8CC1-39DE-43AC-9634-BE481EB7EBB1}" hidden="false" name="Redo">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="redo"/>
+        </hotkeys>
+      </macro>
+      <macro guid="{E8485493-C38F-4DCE-866D-451F1E8577A4}" hidden="false" name="Hide">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+        </keystroke>
+      </macro>
+      <macro guid="{544FDBFF-551F-41F1-9846-A4465A427840}" hidden="false" name="Reveal">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+          <modifier value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{641A18A2-56AF-4E9B-ACE3-83645214E748}" hidden="false" name="Show/Hide User Preferences">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="U"/>
+          <modifier value="LCTRL"/>
+          <modifier value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{D9C1411E-5970-475C-991E-09F6F0F52B4F}" hidden="false" name="Undo History">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+          <modifier value="LCTRL"/>
+          <modifier value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{3D260B66-2054-48D0-9D36-5705EA5903DC}" hidden="false" name="Render Image">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F12"/>
+        </keystroke>
+      </macro>
+      <macro guid="{7B694723-4304-43F1-BBD5-8A5CA780FBA2}" hidden="false" name="Render Animation">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F12"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{278A6698-C9AD-4E87-843E-0004737DA095}" hidden="false" name="Loop Cut and Slide">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{278A6698-C9AD-4E87-843E-0004737DA095}" guid="{D21557E5-96CE-48A5-AB84-9164BEF7F1DB}" hidden="false" name="Loop Subdivide">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Keyboard">
+      <assignment original="true" backup="false" contextid="G12" shiftstate="1" macroguid="{BBEB3397-D187-4677-9E25-9D45A70BEC16}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="1" macroguid="{278A6698-C9AD-4E87-843E-0004737DA095}"/>
+      <assignment original="false" backup="false" contextid="G18" shiftstate="1" macroguid="{E51F9CE0-ED1E-4B36-92A4-ADC977D103FA}"/>
+      <assignment original="false" backup="false" contextid="G17" shiftstate="1" macroguid="{2C8382E4-6E49-4C01-9051-83481700207F}"/>
+      <assignment original="true" backup="false" contextid="G7" shiftstate="1" macroguid="{DF5DC330-7D53-4349-9D9D-4E8A11BC628A}"/>
+      <assignment original="false" backup="true" contextid="G18" shiftstate="1" macroguid="{E51F9CE0-ED1E-4B36-92A4-ADC977D103FA}"/>
+      <assignment original="false" backup="true" contextid="G17" shiftstate="1" macroguid="{2C8382E4-6E49-4C01-9051-83481700207F}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="1" macroguid="{E8485493-C38F-4DCE-866D-451F1E8577A4}"/>
+      <assignment original="false" backup="true" contextid="G15" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="1" macroguid="{544FDBFF-551F-41F1-9846-A4465A427840}"/>
+      <assignment original="false" backup="true" contextid="G14" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="false" contextid="G1" shiftstate="1" macroguid="{641A18A2-56AF-4E9B-ACE3-83645214E748}"/>
+      <assignment original="false" backup="true" contextid="G1" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="false" contextid="G16" shiftstate="1" macroguid="{D9C1411E-5970-475C-991E-09F6F0F52B4F}"/>
+      <assignment original="false" backup="true" contextid="G16" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="1" macroguid="{3D260B66-2054-48D0-9D36-5705EA5903DC}"/>
+      <assignment original="false" backup="true" contextid="G3" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="1" macroguid="{7B694723-4304-43F1-BBD5-8A5CA780FBA2}"/>
+      <assignment original="false" backup="true" contextid="G2" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="true" contextid="G11" shiftstate="1" macroguid="{278A6698-C9AD-4E87-843E-0004737DA095}"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.Keyboard.G11">
+      <mode shiftstate="1" color="#000000"/>
+      <mode shiftstate="2" color="#000000"/>
+      <mode shiftstate="3" color="#000000"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile gkeysdk="0" guid="{3BFCF621-5523-4E58-869C-3B10AD298871}" lock="0" name="Photoshop 7">
+    <description>Photoshop 7.0 G11 Macros</description>
+    <target path="C:\PROGRAM FILES\ADOBE\PHOTOSHOP 7.0\PHOTOSHOP.EXE"/>
+    <signature key="" value="" executable="" name=""/>
+    <macros>
+      <macro original="true" guid="{62B7A757-F898-4EA5-9F2C-9DF9B2D7C14E}" hidden="false" name="File_Browse...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="O"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{C7BCE676-03C6-43EA-91A7-7E8C29614199}" hidden="false" name="File_New...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="N"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{1B8077C7-3782-40AA-8856-3A903137DFB8}" hidden="false" name="File_Open...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="O"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{A1E1FF3B-F232-4451-B1C2-4F5E94E5B56F}" hidden="false" name="File_Print with Preview...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="P"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{2BF2096A-DF8B-4DAF-BFA5-40B45ABE7865}" hidden="false" name="File_Save">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{F8B30305-5EDD-4796-B851-F697F5A7D8F5}" hidden="false" name="File_Open As...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+          <modifier value="LALT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{5F56639C-998F-481F-98FF-1E467A9E80F1}" hidden="false" name="File_Close">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{C3C7BD74-31E6-4EB0-89ED-81987FF052B5}" hidden="false" name="File_Exit">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{5B187106-A078-4006-95E8-75D052E527C2}" hidden="false" name="File_Save As...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{95408ECE-0820-4726-B974-25101402CD4C}" hidden="false" name="File_Save for Web...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+          <modifier value="LALT"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{F7074348-0C31-401B-84CD-DBBE74794CCA}" hidden="false" name="File_Page Setup...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="P"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{031578C9-97D8-4ECB-AF97-29BC95481103}" hidden="false" name="File_Print...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="P"/>
+          <modifier value="LALT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{43D42B1D-D0A7-4DA7-A649-F38FDE5102B2}" hidden="false" name="File_Print One Copy">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="P"/>
+          <modifier value="LALT"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{7572E247-986E-4828-8A85-4AD38BAFBEA0}" hidden="false" name="File_Jump To>Adobe ImageReady 7.0">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{29A43A70-AF96-4442-8DD2-92B55BDA3CC5}" hidden="false" name="Edit_Undo">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{54D80739-27E2-4A60-AE56-697D6C96EC20}" hidden="false" name="Edit_Step Forward">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{27AB4C96-393A-4201-8F81-93163D61C03A}" hidden="false" name="Edit_Step Backward">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+          <modifier value="LALT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{A07D4D6B-772D-4288-9CF1-B94091C5C4F9}" hidden="false" name="Edit_Fade...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{2EDB2B0A-1DB3-471B-B8C7-3580DEEA8240}" hidden="false" name="Edit_Cut">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{7EF169B0-1235-45D4-83C3-9EC1EDAC00D9}" hidden="false" name="Edit_Copy">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{D60C60D7-BDA3-4A90-802B-C0B4337E0547}" hidden="false" name="Edit_Copy Merged">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{1D69F8BD-FC9C-495C-AB5C-20630DE3BD1F}" hidden="false" name="Edit_Paste">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{588255C9-367E-415A-9C61-909FCCA53A28}" hidden="false" name="Edit_Paste Into">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{9D4ACA9A-2823-4E84-942B-5BE955CAA02D}" hidden="false" name="Edit_Color Settings...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="K"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{EEFF6CF1-40C3-4DD2-9B8D-95DA6E84272A}" hidden="false" name="Edit_Preferences>General...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="K"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{947C19AE-3DD5-49B4-A8C3-7D983672C47B}" hidden="false" name="Edit_Transform>Again">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{FB7A7C8B-E10B-4A2B-BB3A-36BB3BD12443}" hidden="false" name="Edit_Free Transform">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{4A050553-01AB-41C7-9589-6ED0EAECA5BE}" hidden="false" name="Image_Adjustments>Levels...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="L"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{20874906-5F28-4D81-AB7B-F314CDD95F20}" hidden="false" name="Image_Adjustments>Auto Levels">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="L"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{AA34E6F7-F924-407E-9621-18C4AA85DFA1}" hidden="false" name="Image_Adjustments>Auto Contrast">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="L"/>
+          <modifier value="LALT"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{57889E79-35C5-4BEF-B393-75A52677CE84}" hidden="false" name="Image_Adjustments>Auto Color">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="B"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{6CC32B01-750E-428B-B2C1-3B073C997584}" hidden="false" name="Image_Adjustments>Curves...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{CD491F13-A36A-4E57-89DD-D4BC3DEFD7C2}" hidden="false" name="Image_Adjustments>Color Balance...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="B"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{90C70903-2A0A-46CC-B758-391FDFC78B4A}" hidden="false" name="Image_Desaturate">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="U"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{A4366CF5-BCC4-4286-BBF0-59398A0624D9}" hidden="false" name="Image_Invert">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="I"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{38365324-B6B1-40D9-A521-53D6746524D6}" hidden="false" name="Layer_New>Layer...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="N"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{A587A0ED-F12C-4CC9-BE1C-69EE5C5D9AFA}" hidden="false" name="Layer_New>Layer via Copy">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="J"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{BE0C53AE-E915-4A27-8034-8C963CE45CD0}" hidden="false" name="Layer_New>Layer via Cut">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="J"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{D84B8132-53DE-47ED-A1E3-3AC3718F63E2}" hidden="false" name="Layer_Group with Previous">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{980DCE59-F439-4DEB-92A1-10B3C4B82425}" hidden="false" name="Layer_Ungroup">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{09BA9D67-35BD-453E-B60D-0FA0411BAA8D}" hidden="false" name="Layer_Merge Down">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{C03AF56E-E400-4D5A-ADE7-A38E7BFD047C}" hidden="false" name="Layer_Merge Visible">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{69FE5FAD-8607-4597-8362-2E8206A9DFB6}" hidden="false" name="Select_All">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{B02A3973-9465-43E1-B398-73D977BF95D6}" hidden="false" name="Select_Deselect">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{98C7CFA5-B907-4DB4-924E-0EF446885D50}" hidden="false" name="Select_Reselect">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{87FC1AEB-F2F8-4AF5-B735-C3EC4490A7B0}" hidden="false" name="Select_Inverse">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="I"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{AB5BF21B-81AB-4DA2-839C-0C1888ACA097}" hidden="false" name="Filter_Last Filter">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{B7B3D3E2-3CDE-4720-AF29-DCE31B878B3E}" hidden="false" name="Filter_Extract...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+          <modifier value="LALT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{6BFF25BE-7149-41E7-AEBF-4433ACD5DD20}" hidden="false" name="Filter_Liquify...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{91CAD41E-33BA-4B99-987E-72633DE8744E}" hidden="false" name="Filter_Pattern Maker...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+          <modifier value="LALT"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{8F7BB5FB-91CA-42C9-85AC-A16512D402A1}" hidden="false" name="View_Proof Colors">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Y"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{0E23DD78-E3EC-474C-B006-2E2F8374A7F4}" hidden="false" name="View_Gamut Warning">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Y"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{C3E471F9-6C1A-4112-8F48-48F4B2CEA092}" hidden="false" name="View_Zoom In">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="EQUAL"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{0731341A-6941-4785-AF10-0719B0214C8F}" hidden="false" name="View_Zoom Out">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="MINUS"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{B51F9134-B744-4A6B-90D4-0D533E686B21}" hidden="false" name="View_Fit on Screen">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="0"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{D81C53CC-D10A-44E6-96EE-A7349DC0A185}" hidden="false" name="View_Actual Pixels">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="0"/>
+          <modifier value="LALT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{8496B060-9B5C-4A02-B29F-F6C7F4A52C48}" hidden="false" name="View_Extras">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{FF624FCA-7EA5-4DC3-8C06-5AB8AF21AA96}" hidden="false" name="View_Show>Target Path">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{B52F8285-F584-492F-90C1-BBB75841309F}" hidden="false" name="View_Show>Grid">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="QUOTE"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{2D4AD321-B187-4C26-B6CE-476AA687B07D}" hidden="false" name="View_Show>Guides">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SEMICOLON"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{78EEA286-3A7D-4E3A-A818-569A823EC2FB}" hidden="false" name="View_Rulers">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{949957EF-CBE7-4443-A27D-9C4FC0C518BF}" hidden="false" name="Window_Documents>Close All">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{CEAC47E7-CF2D-41D1-87C6-4D31DAE585BE}" hidden="false" name="Help_Photoshop Help...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F1"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{D66E310F-DBFE-4E38-AB35-EF935CDF73D3}" hidden="false" name="Toolbar_Screen Mode Toggle">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{1C458965-CC86-48C2-8961-94EBFF07BB58}" hidden="false" name="Toolbar_Marquee Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{3AC536FF-E0D1-472B-94BB-16F596314149}" hidden="false" name="Toolbar_Move Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{1865121D-DEAD-4973-B715-3E2C32BF335C}" hidden="false" name="Toolbar_Lasso Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="L"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{633033C6-A9C4-431A-A452-51CF0C53F527}" hidden="false" name="Toolbar_Magic Wand Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{2C963724-6BC1-473F-A6DE-0BD39F9ED95E}" hidden="false" name="Toolbar_Crop Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{8A727540-329E-4632-86B3-5D5799445C4D}" hidden="false" name="Toolbar_Slice Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="K"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{714CFA49-4FCA-498F-B5EA-1F5D63C794A6}" hidden="false" name="Toolbar_Healing Brush Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="J"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{5EEF46BD-A69E-40F0-BE41-A27F7605105F}" hidden="false" name="Toolbar_Brush Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="B"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{4992E6AA-2466-4F0B-94EB-482522C5FC22}" hidden="false" name="Toolbar_Clone Stamp Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{24476608-7213-4A5B-BE10-54D8A1C5C8C7}" hidden="false" name="Toolbar_History Brush Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Y"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{7ADBA8A0-C9BD-4A23-A38E-811C3468AF44}" hidden="false" name="Toolbar_Eraser Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{6E43C2CC-95B0-4CFB-9105-3D22FFF0BF2D}" hidden="false" name="Toolbar_Gradient Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{C6620CFA-20DB-4B3F-9786-9A6C413DA666}" hidden="false" name="Toolbar_Blur Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{3CA638A7-0A97-40F6-9C0B-E4F592416264}" hidden="false" name="Toolbar_Dodge Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="O"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{0C293572-D60C-4EEA-B1D3-E880C664B47D}" hidden="false" name="Toolbar_Path Selection Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{46F6558B-6672-43C2-8E23-F742DB3FFB68}" hidden="false" name="Toolbar_Horizontal Type Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{FA78504D-4746-47F5-9411-99D92A14C5C9}" hidden="false" name="Toolbar_Pen Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="P"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{DFFF40A8-E9B5-4970-8EDD-871F2570A840}" hidden="false" name="Toolbar_Rectangle Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="U"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{7197C92D-F636-46E2-9728-12DE5C9E3837}" hidden="false" name="Toolbar_Notes Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="N"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{4F463FF6-1D50-4805-87EE-00FDC79FAABA}" hidden="false" name="Toolbar_Eyedropper Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="I"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{AE5A6B9C-B2DA-46F6-B974-F200E8E405A6}" hidden="false" name="Toolbar_Hand Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{FED05289-AC1E-43DB-B555-B3A4F864AC46}" hidden="false" name="Toolbar_Zoom Tool">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{DFA13DB4-AADA-45FF-9F66-166D2A5E2356}" hidden="false" name="Toolbar_Switch Foreground and Background Colors">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{22684A53-5775-4AB2-BE44-C93F1B920C4D}" hidden="false" name="Toolbar_Default Forground and Background Colors">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro original="true" guid="{543A1CAE-06D9-452E-8F6E-F7AFCEAB18E2}" hidden="false" name="Toolbar_Edit in Standard/Quick Mask Mode Toggle">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro guid="{573B6232-9142-471A-B571-663C6328897B}" hidden="false" name="Image_Hue/Saturation...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="U"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Keyboard">
+      <assignment original="true" backup="false" contextid="G12" shiftstate="1" macroguid="{1D69F8BD-FC9C-495C-AB5C-20630DE3BD1F}"/>
+      <assignment original="true" backup="false" contextid="G11" shiftstate="1" macroguid="{7EF169B0-1235-45D4-83C3-9EC1EDAC00D9}"/>
+      <assignment original="true" backup="false" contextid="G10" shiftstate="1" macroguid="{69FE5FAD-8607-4597-8362-2E8206A9DFB6}"/>
+      <assignment original="true" backup="false" contextid="G9" shiftstate="1" macroguid="{90C70903-2A0A-46CC-B758-391FDFC78B4A}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="1" macroguid="{573B6232-9142-471A-B571-663C6328897B}"/>
+      <assignment original="true" backup="false" contextid="G7" shiftstate="1" macroguid="{A4366CF5-BCC4-4286-BBF0-59398A0624D9}"/>
+      <assignment original="true" backup="false" contextid="G1" shiftstate="1" macroguid="{38365324-B6B1-40D9-A521-53D6746524D6}"/>
+      <assignment original="true" backup="false" contextid="G2" shiftstate="1" macroguid="{A587A0ED-F12C-4CC9-BE1C-69EE5C5D9AFA}"/>
+      <assignment original="true" backup="false" contextid="G3" shiftstate="1" macroguid="{BE0C53AE-E915-4A27-8034-8C963CE45CD0}"/>
+      <assignment original="true" backup="false" contextid="G18" shiftstate="1" macroguid="{27AB4C96-393A-4201-8F81-93163D61C03A}"/>
+      <assignment original="true" backup="false" contextid="G17" shiftstate="1" macroguid="{54D80739-27E2-4A60-AE56-697D6C96EC20}"/>
+      <assignment original="true" backup="false" contextid="G16" shiftstate="1" macroguid="{8496B060-9B5C-4A02-B29F-F6C7F4A52C48}"/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="1" macroguid="{FED05289-AC1E-43DB-B555-B3A4F864AC46}"/>
+      <assignment original="false" backup="true" contextid="G14" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="true" contextid="G15" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="false" contextid="G13" shiftstate="1" macroguid="{B52F8285-F584-492F-90C1-BBB75841309F}"/>
+      <assignment original="false" backup="true" contextid="G13" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="1" macroguid="{FB7A7C8B-E10B-4A2B-BB3A-36BB3BD12443}"/>
+      <assignment original="false" backup="true" contextid="G4" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="true" contextid="G5" shiftstate="1" macroguid=""/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="1" macroguid="{62B7A757-F898-4EA5-9F2C-9DF9B2D7C14E}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="1" macroguid="{D81C53CC-D10A-44E6-96EE-A7349DC0A185}"/>
+      <assignment original="false" backup="true" contextid="G8" shiftstate="1" macroguid="{573B6232-9142-471A-B571-663C6328897B}"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.Keyboard.G11">
+      <mode shiftstate="1" color="#000000"/>
+      <mode shiftstate="2" color="#000000"/>
+      <mode shiftstate="3" color="#000000"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>
