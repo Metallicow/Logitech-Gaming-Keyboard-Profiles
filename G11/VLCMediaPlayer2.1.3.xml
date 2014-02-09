@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile gkeysdk="0" guid="{84708357-54EC-4D34-8FAE-C435C0CC1F69}" lock="0" name="VLC Media Player 2.1.3">
+    <description>G11 Keyboard Macros</description>
+    <target path="C:\Program Files\VideoLAN\VLC\vlc.exe"/>
+    <signature key="" value="" executable="" name=""/>
+    <macros>
+      <macro guid="{33D9F754-3FBD-4739-BF29-C0222BC61227}" hidden="false" name="Media_Open File...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="O"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{4FBF83B3-8C47-46D8-87D9-DD080614198C}" hidden="false" name="Media_Open Multiple Files...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="O"/>
+          <modifier value="LCTRL"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6F38318E-9D49-461F-92DE-9F41AEA0A0BA}" hidden="false" name="Media_Open Folder...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6ABEB9AB-861C-457E-85EE-FFB418E4FCD0}" hidden="false" name="Media_Open Disc...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6541AC8B-D8C7-4C63-8112-B5BE69C64A2B}" hidden="false" name="Media_Open Network Stream...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="N"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{78A8985A-AC94-4F89-A8FB-247EE8FBE405}" hidden="false" name="Media_Open Capture Device...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{408577F2-3A68-40FE-9E2B-CDDFB70CE3A8}" hidden="false" name="Media_Open Location From clipboard">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{EDC7C9AC-B960-44C2-8D47-38A47453662F}" hidden="false" name="Media_Open Recent Media 1">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{7C326B3E-6A54-44E2-A776-3C71B878498F}" hidden="false" name="Media_Open Recent Media 2">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{4D9DB1D8-2634-4DD3-BD00-853E0E2812E9}" hidden="false" name="Media_Open Recent Media 3">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{D9CC791F-09F1-455E-B051-2CBC5F6CD21B}" hidden="false" name="Media_Open Recent Media 4">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{03FDD18B-6D15-47DE-B88F-42879EB068EC}" hidden="false" name="Media_Open Recent Media 5">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="5"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{B8BEE16C-9A14-4F9C-9608-E58B9EA72D06}" hidden="false" name="Media_Open Recent Media 6">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="6"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{887EBBBB-8F8C-46D3-9F37-3AB41408C018}" hidden="false" name="Media_Open Recent Media 7">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="7"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{1A68FE6F-28DF-4378-B835-D344A1E7440C}" hidden="false" name="Media_Open Recent Media 8">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="8"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{0C6E6B1F-7934-4CAC-A95A-B9EB8AF0DC87}" hidden="false" name="Media_Open Recent Media 9">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="9"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{A2DCE316-5776-4B18-9538-83C9B60E4C72}" hidden="false" name="Media_Save Playlist to File...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Y"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{597DC009-687D-49ED-8740-5ACB664A4E9B}" hidden="false" name="Media_Convert/Save...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{9956F806-F4E1-4455-8389-D383451CB6D9}" hidden="false" name="Media_Stream...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{D34DE003-F288-46B1-828F-E904B24514B5}" hidden="false" name="Media_Quit">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{70F1251F-1BB1-4CA5-9294-24817B101E13}" hidden="false" name="Playback_Custom Bookmarks>Manage">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="B"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6FDF8287-EF05-4346-9534-115ECFF8EF1B}" hidden="false" name="Playback_Jump to Specific Time">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{7038AF28-C0B0-4C53-A0C4-7F09BF13C526}" hidden="false" name="Tools_Effects and Filters">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{43D36E85-8819-4B01-951F-A39F21C31066}" hidden="false" name="Tools_Media Information">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="I"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{D16F6266-7115-4AA3-A226-40C7853B4D6B}" hidden="false" name="Tools_Codec Information">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="J"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{88278287-96AF-4A80-B082-7E9F636B4C15}" hidden="false" name="Tools_VLM Configuration">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+          <modifier value="LCTRL"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{3D01E8C8-65AB-487C-BC4A-F36E23A7BB7B}" hidden="false" name="Tools_Messages">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{75DFB051-2179-487C-8458-D73DE9F6CE4D}" hidden="false" name="Tools_Preferences">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="P"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{590F080C-48E9-46FE-A62A-C94836A9EA21}" hidden="false" name="View_Playlist">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="L"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{F1E412B2-80E3-4436-ACC0-A691CDA8E6E1}" hidden="false" name="View_Minimal Interface">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{832B4869-34CE-47C1-B8D9-36E7C6524859}" hidden="false" name="View_Fullscreen Interface">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F11"/>
+        </keystroke>
+      </macro>
+      <macro guid="{5E556311-E93A-4E53-83FC-11155818EA45}" hidden="false" name="Help_Help...">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F1"/>
+        </keystroke>
+      </macro>
+      <macro guid="{77856B3E-1DDD-47E5-9B22-FB55A2FBB6DB}" hidden="false" name="Help_About">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F1"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Keyboard">
+      <assignment original="false" backup="false" contextid="G1" shiftstate="1" macroguid="{33D9F754-3FBD-4739-BF29-C0222BC61227}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="1" macroguid="{4FBF83B3-8C47-46D8-87D9-DD080614198C}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="1" macroguid="{6F38318E-9D49-461F-92DE-9F41AEA0A0BA}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="1" macroguid="{6ABEB9AB-861C-457E-85EE-FFB418E4FCD0}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="1" macroguid="{6541AC8B-D8C7-4C63-8112-B5BE69C64A2B}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="1" macroguid="{78A8985A-AC94-4F89-A8FB-247EE8FBE405}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="1" macroguid="{70F1251F-1BB1-4CA5-9294-24817B101E13}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="1" macroguid="{6FDF8287-EF05-4346-9534-115ECFF8EF1B}"/>
+      <assignment original="false" backup="false" contextid="G13" shiftstate="1" macroguid="{43D36E85-8819-4B01-951F-A39F21C31066}"/>
+      <assignment original="false" backup="false" contextid="G14" shiftstate="1" macroguid="{D16F6266-7115-4AA3-A226-40C7853B4D6B}"/>
+      <assignment original="false" backup="false" contextid="G15" shiftstate="1" macroguid="{88278287-96AF-4A80-B082-7E9F636B4C15}"/>
+      <assignment original="false" backup="false" contextid="G16" shiftstate="1" macroguid="{590F080C-48E9-46FE-A62A-C94836A9EA21}"/>
+      <assignment original="false" backup="false" contextid="G17" shiftstate="1" macroguid="{F1E412B2-80E3-4436-ACC0-A691CDA8E6E1}"/>
+      <assignment original="false" backup="false" contextid="G18" shiftstate="1" macroguid="{832B4869-34CE-47C1-B8D9-36E7C6524859}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="1" macroguid="{5E556311-E93A-4E53-83FC-11155818EA45}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="1" macroguid="{77856B3E-1DDD-47E5-9B22-FB55A2FBB6DB}"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.Keyboard.G11">
+      <mode shiftstate="1" color="#000000"/>
+      <mode shiftstate="2" color="#000000"/>
+      <mode shiftstate="3" color="#000000"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>

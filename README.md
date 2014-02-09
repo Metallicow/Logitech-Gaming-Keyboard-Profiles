@@ -16,6 +16,7 @@ The newer files extension is .xml
 The legacy files extension is .lgp
 
 These profiles might work with other versions of the keyboard/software also.
+Also a later version of an application will probably still have the same default hotkeys.
 
 Feel free to send a Pull Request for any applications you may have layed out for your particular keyboard if you happen to have one that isn't here.
 
@@ -35,12 +36,16 @@ Image/Photo Apps
 
 Development/Text Editor Apps
 ----------------------------
- * [Notepad++](http://notepad-plus-plus.org/)
+ * [Notepad++ 6.5.3](http://notepad-plus-plus.org/)
 
 Web Browsers
 ------------
- * [Mozilla Firefox](http://www.mozilla.org/en-US/firefox/new/)
+ * [Mozilla Firefox 27.0](http://www.mozilla.org/en-US/firefox/new/)
 
+Audio/Video Apps
+----------------
+ * [VLC Media Player 2.1.3](http://www.videolan.org/)
+ 
 Games
 -----
  * None Currently.
