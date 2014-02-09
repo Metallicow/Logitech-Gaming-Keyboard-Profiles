@@ -33,3 +33,12 @@ Image/Photo Apps
 Development/Text Editor Apps
 ----------------------------
  * [Notepad++](http://notepad-plus-plus.org/)
+
+Web Browsers
+------------
+ * [Mozilla Firefox](http://www.mozilla.org/en-US/firefox/new/)
+
+Games
+-----
+ * None Currently.
+
