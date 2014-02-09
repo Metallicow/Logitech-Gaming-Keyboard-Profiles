@@ -4,6 +4,8 @@ Logitech-Gaming-Keyboard-Profiles
 Logitech Gaming Keyboard Profiles for various applications. (Default Keyboard Shortcuts)
 http://www.logitech.com/en-us/support/285?crid=404&osid=1&bit=32
 
+![LogitechGamingSoftware](https://raw.github.com/Metallicow/Logitech-Gaming-Keyboard-Profiles/master/LogitechGamingSoftware.png)
+
 Collection of application macros I have created for different apps over the years for some of the more popular apps.
 Each profile is setup with the application/games default Keyboard shortcuts.
 Note you might have to modify the application exe path.
@@ -16,6 +18,7 @@ The legacy files extension is .lgp
 These profiles might work with other versions of the keyboard/software also.
 
 Feel free to send a Pull Request for any applications you may have layed out for your particular keyboard if you happen to have one that isn't here.
+
 
 Image/Photo Apps
 ----------------
