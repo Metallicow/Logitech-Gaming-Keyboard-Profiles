@@ -21,6 +21,10 @@ Also a later version of an application will probably still have the same default
 Feel free to send a Pull Request for any applications you may have layed out for your particular keyboard if you happen to have one that isn't here.
 
 
+Logitech Gaming Software
+------------------------
+ * All Keyboard Keys/Functions. Should contain everything basic...
+
 Image/Photo Apps
 ----------------
  * [Adobe Photoshop 7](http://www.adobe.com/)
